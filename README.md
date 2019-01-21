@@ -1,3 +1,2 @@
 "# TIMProject" 
-Aplikacja wspierająca działanie przychodni,
-wykorzystano głównie firebase
+Aplikacja wspierająca działanie przychodni
